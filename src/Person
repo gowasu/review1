@@ -1,0 +1,32 @@
+public void person (){
+
+}
+       string("uji");	
+
+public void string("na");
+
+public void string("firstname");
+
+public void string("lastname");
+
+string.getfirstname();
+
+string setfrstname = (firstname)findViewById(R.id.firstname);
+
+?? getlastname
+
+string setlastname(string[]arg);
+
+public void showname(){
+	
+}
+
+system.out.println("lastname" + "firstname");
+
+
+ system.out.println("渡辺","高志");
+  
+ system.out.println("和田","充史");
+
+ system.out.println("渡辺","高志");
+  
